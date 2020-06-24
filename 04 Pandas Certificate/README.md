@@ -1,5 +1,5 @@
-# How looks login screen
- ![](Łukasz Żakowski - Pandas.png?raw=true)
+# Certificate
+ ![](.Łukasz Żakowski - Pandas.png?raw=true)
  
 # Pandas
 
