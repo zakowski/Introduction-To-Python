@@ -1,3 +1,6 @@
+# How looks login screen
+ ![](Łukasz Żakowski - Pandas.png?raw=true)
+ 
 # Pandas
 
 In todays lesson we will earn our first micro-certificate on Kaggle.
