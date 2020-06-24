@@ -1,5 +1,5 @@
 # Certificate
- ![](/Łukasz Żakowski - Pandas.png)
+ ![](Łukasz%20Żakowski%20-%20Pandas.png)
  
 # Pandas
 
